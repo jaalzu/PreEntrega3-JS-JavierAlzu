@@ -1,0 +1,23 @@
+[
+{
+    "id":1,
+    "nombre":"Macbook",
+    "precio":3000,
+    "img":"/public/imagenes/macbook.jpg",
+    "cantidad":1
+      },
+      {
+        "id":2,
+        "nombre":"Tablet",
+        "precio":2000,
+       "img": "/public/imagenes/tablet.jpg",
+      "cantidad": 1
+      },
+      {
+        "id":3,
+        "nombre":"Iphone",
+        "precio":1500,
+        "img": "/public/imagenes/iphone.jpg",
+        "cantidad": 1
+      }
+    ]
